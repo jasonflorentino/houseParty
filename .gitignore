@@ -4,3 +4,5 @@
 **/static/
 **/db.sqlite3
 **/.DS_Store
+**/credentials.py
+**/migrations/
