@@ -6,3 +6,4 @@
 **/.DS_Store
 **/credentials.py
 **/migrations/
+**/settings.py
