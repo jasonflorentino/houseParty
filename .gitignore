@@ -6,4 +6,4 @@
 **/.DS_Store
 **/credentials.py
 **/migrations/
-**/music_controller/
+./music_controller/music_controller/
